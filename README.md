@@ -15,8 +15,7 @@
   <br/>
   <br/>
   
-  ## 🧱 Tech Stack
-  ### Language
+  ## 🧱 Tech Stack 
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
@@ -27,8 +26,18 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <br/> 
   <br/>
-  <!-Gradle-->
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
+  <!--Java-->
+  <img src="https://img.shields.io/badge/Java?style=flat-square&logo=Java&logoColor=white"/>
+  <!--Node.js-->
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
+  <!--Spring-->
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <!--Spring Boot-->
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <!--MongoDB-->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+  <!--Oracle-->
+  <img src="https://img.shields.io/badge/Oracle?style=flat-square&logo=Oracle&logoColor=white"/>
   <br/>
   <br/>
   
