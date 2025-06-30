@@ -27,7 +27,7 @@
   <br/> 
   <br/>
   <!--Java-->
-  <img src="https://img.shields.io/badge/Java-#F7DF1E?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
   <!--Node.js-->
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
   <!--Spring-->
@@ -37,7 +37,10 @@
   <!--MongoDB-->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <!--Oracle-->
-  <img src="https://img.shields.io/badge/Oracle?style=flat-square&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <br/>
+  <!--GitHub-->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <br/>
   <br/>
   
@@ -53,7 +56,7 @@
 </div>
 
 <!--
-**Jiyu-Kim/Jiyu-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JJJbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - Hi there 👋
