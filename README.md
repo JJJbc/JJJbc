@@ -9,9 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### 
   <br/>
   <br/>
   
@@ -23,9 +21,8 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <!--React-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <br/> 
-  <br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>  <br/> 
+  
   <!--Java-->
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
   <!--Node.js-->
