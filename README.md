@@ -24,11 +24,11 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <!--React-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <br/> 
   <br/>
   <!-Gradle-->
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
   <br/>
   <br/>
   
