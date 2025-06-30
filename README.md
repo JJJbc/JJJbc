@@ -27,7 +27,7 @@
   <br/> 
   <br/>
   <!--Java-->
-  <img src="https://img.shields.io/badge/Java?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-#F7DF1E?style=flat-square&logo=Java&logoColor=white"/>
   <!--Node.js-->
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
   <!--Spring-->
