@@ -23,9 +23,13 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <!--React-->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=CSS3&logoColor=white"/>
+  <br/> 
   <br/>
   <!-Gradle-->
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=CSS3&logoColor=white"/>
+  <br/>
   <br/>
   
 
@@ -33,9 +37,9 @@
 
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJJbc)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJJbc)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
